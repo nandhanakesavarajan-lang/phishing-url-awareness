@@ -1,0 +1,640 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 5
+/Kids [ 4 0 R 11 0 R 14 0 R 16 0 R 18 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 9242
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (EWB Courses | Assessment 01 | Security Foundations) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 768.5354 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 2 Tm /F2 20 Tf 22 TL 43.90417 0 Td (EWB Courses: AI-Powered Cybersecurity) Tj T* -43.90417 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 748.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL 131.9182 0 Td (Assessment 01: Security Foundations) Tj T* -131.9182 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 737.5354 cm
+Q
+q
+1 0 0 1 57.02362 723.5354 cm
+q
+BT 1 0 0 1 0 4 Tm 14 TL /F2 10 Tf 0 0 0 rg (Name:) Tj /F1 10 Tf ( Nandhana  ) Tj ( ) Tj (  ) Tj /F2 10 Tf (Batch/Group:) Tj /F1 10 Tf ( Cyber security intern  ) Tj ( ) Tj (  ) Tj /F2 10 Tf (Issued:) Tj /F1 10 Tf ( 18 October 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 690.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (All work below is based only on the fictional data supplied in the assessment. No real systems, passwords or) Tj T* (personal data were used.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 679.5354 cm
+Q
+q
+1 0 0 1 57.02362 653.5354 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 7 Tm /F2 15 Tf 22 TL (Task A: Secure a student account) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 631.5354 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 3 Tm /F3 11 Tf 14 TL (A1 and A2: Risk table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 261.5354 cm
+q
+.121569 .227451 .372549 rg
+n 0 367 481.8898 -19 re f*
+1 1 1 rg
+n 0 348 481.8898 -74 re f*
+.933333 .94902 .968627 rg
+n 0 274 481.8898 -63 re f*
+1 1 1 rg
+n 0 211 481.8898 -85 re f*
+.933333 .94902 .968627 rg
+n 0 126 481.8898 -63 re f*
+1 1 1 rg
+n 0 63 481.8898 -63 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 352 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Risk) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102.378 352 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Asset) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 352 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (CIA impact) Tj T* ET
+Q
+Q
+q
+1 0 0 1 283.7953 352 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Control) Tj T* ET
+Q
+Q
+q
+1 0 0 1 391.5118 352 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Limitation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 300 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 35.5 Tm /F1 8.5 Tf 11 TL (1. Same short) Tj T* (password reused for) Tj T* (email and learning) Tj T* (portal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102.378 311 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24.5 Tm /F1 8.5 Tf 11 TL (Email and) Tj T* (portal) Tj T* (accounts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 278 cm
+q
+BT 1 0 0 1 0 57.5 Tm 11 TL /F2 8.5 Tf 0 0 0 rg (Confidentiality, integrity:) Tj /F1 8.5 Tf  T* (a guessed or leaked) Tj T* (password opens both) Tj T* (accounts; attacker can) Tj T* (read data and change) Tj T* (work.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 283.7953 311 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24.5 Tm /F1 8.5 Tf 11 TL (Unique long passphrase) Tj T* (for each account, stored) Tj T* (in a password manager.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 391.5118 289 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 46.5 Tm /F1 8.5 Tf 11 TL (Manager master) Tj T* (password becomes a) Tj T* (key point of failure;) Tj T* (does not stop) Tj T* (phishing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 237 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24.5 Tm /F1 8.5 Tf 11 TL (2. Approving) Tj T* (unexpected sign-in) Tj T* (\(MFA\) prompts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102.378 237 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24.5 Tm /F1 8.5 Tf 11 TL (Account) Tj T* (session / MFA) Tj T* (approval) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 226 cm
+q
+BT 1 0 0 1 0 35.5 Tm 11 TL /F2 8.5 Tf 0 0 0 rg (Confidentiality, integrity:) Tj /F1 8.5 Tf  T* (approving an attacker's) Tj T* (prompt gives them a valid) Tj T* (session.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 283.7953 226 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 35.5 Tm /F1 8.5 Tf 11 TL (Deny and report) Tj T* (unexpected prompts; use) Tj T* (authenticator app with) Tj T* (number matching.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 391.5118 215 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 46.5 Tm /F1 8.5 Tf 11 TL (Relies on user) Tj T* (behaviour; a) Tj T* (convincing phishing) Tj T* (page can still capture) Tj T* (codes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 185 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (3. Postponed device) Tj T* (updates) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102.378 174 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24.5 Tm /F1 8.5 Tf 11 TL (Laptop OS,) Tj T* (apps, stored) Tj T* (files) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 163 cm
+q
+BT 1 0 0 1 0 35.5 Tm 11 TL /F2 8.5 Tf 0 0 0 rg (All three:) Tj /F1 8.5 Tf ( known flaws) Tj T* (allow malware, data theft) Tj T* (or ransomware that locks) Tj T* (files.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 283.7953 174 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24.5 Tm /F1 8.5 Tf 11 TL (Turn on automatic) Tj T* (updates and restart) Tj T* (regularly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 391.5118 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 68.5 Tm /F1 8.5 Tf 11 TL (Does not stop) Tj T* (unknown \(zero-day\)) Tj T* (flaws; updates may) Tj T* (need a restart and) Tj T* (can occasionally) Tj T* (cause compatibility) Tj T* (issues.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (4. Only one copy of) Tj T* (the project) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102.378 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Project files) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 78 cm
+q
+BT 1 0 0 1 0 35.5 Tm -0.090337 Tw 11 TL /F2 8.5 Tf 0 0 0 rg (Availability) Tj /F1 8.5 Tf ( \(and integrity\):) Tj T* 0 Tw (loss, theft, failure or) Tj T* (ransomware destroys the) Tj T* (only copy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 283.7953 89 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24.5 Tm /F1 8.5 Tf 11 TL (Keep backups: cloud) Tj T* (sync with version history) Tj T* (plus an offline copy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 391.5118 67 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 46.5 Tm /F1 8.5 Tf 11 TL (Sync can copy) Tj T* (deletions or) Tj T* (corruption; backups) Tj T* (are useless if never) Tj T* (test-restored.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 26 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24.5 Tm /F1 8.5 Tf 11 TL (5. Friend uses laptop) Tj T* (under Mira's signed-in) Tj T* (account) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102.378 26 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24.5 Tm /F1 8.5 Tf 11 TL (Accounts,) Tj T* (sessions,) Tj T* (personal files) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 15 cm
+q
+BT 1 0 0 1 0 35.5 Tm 11 TL /F2 8.5 Tf 0 0 0 rg (Confidentiality, integrity:) Tj /F1 8.5 Tf  T* (friend can read, change or) Tj T* (delete files and act as) Tj T* (Mira.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 283.7953 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 46.5 Tm /F1 8.5 Tf 11 TL (Create a separate) Tj T* (guest/standard account) Tj T* (for the friend; auto-lock) Tj T* (screen; sign out when) Tj T* (done.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 391.5118 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 46.5 Tm /F1 8.5 Tf 11 TL (Relies on habit; does) Tj T* (not protect an) Tj T* (unencrypted laptop if) Tj T* (it is lost or stolen \(add) Tj T* (disk encryption\).) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 367 m 481.8898 367 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 367 l S
+n 481.8898 0 m 481.8898 367 l S
+n 0 348 m 481.8898 348 l S
+n 0 274 m 481.8898 274 l S
+n 0 211 m 481.8898 211 l S
+n 0 126 m 481.8898 126 l S
+n 0 63 m 481.8898 63 l S
+n 96.37795 0 m 96.37795 367 l S
+n 164.4094 0 m 164.4094 367 l S
+n 277.7953 0 m 277.7953 367 l S
+n 385.5118 0 m 385.5118 367 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 239.5354 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 3 Tm /F3 11 Tf 14 TL (Top three priorities) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 194.5354 cm
+q
+BT 1 0 0 1 14 32 Tm -14 0 Td 14 TL /F1 10 Tf 0 0 0 rg (1. ) Tj /F2 10 Tf (Replace the reused password with unique ones, email first.) Tj /F1 10 Tf ( Email resets other accounts, and one) Tj T* 14 0 Td (reused password means one failure exposes everything. This is the most likely and highest-impact) Tj T* (weakness.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 163.5354 cm
+q
+BT 1 0 0 1 14 18 Tm -14 0 Td 14 TL /F1 10 Tf 0 0 0 rg (2. ) Tj /F2 10 Tf (Stop approving unexpected prompts and switch to number-matching MFA.) Tj /F1 10 Tf ( MFA is the last barrier) Tj T* 14 0 Td (after a password is exposed; approving blindly removes it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 132.5354 cm
+q
+BT 1 0 0 1 14 18 Tm -14 0 Td 14 TL /F1 10 Tf 0 0 0 rg (3. ) Tj /F2 10 Tf (Stop shared use of the signed-in account.) Tj /F1 10 Tf ( Anyone at the laptop already has full access without any) Tj T* 14 0 Td (hacking skill, and a guest account is quick and free to set up.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 101.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Backups and updates come next \(within the week\): they reduce impact and exposure but do not block the) Tj T* (most direct routes to account takeover.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 79.53543 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 3 Tm /F3 11 Tf 14 TL (A3: Authentication vs authorisation) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+55 723.8898 490 14 re
+f*
+0 0 0 rg
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 57 727.6898 Tm
+(Name\072) Tj
+T*
+ET
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 90.56 727.6898 Tm
+(Nandhana K) Tj
+T*
+ET
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 160.15 727.6898 Tm
+(Batch\057Group\072) Tj
+T*
+ET
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 227.04 727.6898 Tm
+(AI Powered Cybersecurity Internship) Tj
+T*
+ET
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 403.32 727.6898 Tm
+(Issued\072) Tj
+T*
+ET
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 441.33 727.6898 Tm
+(18 October 2026) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 615
+>>
+stream
+GarVK>Aoub'RnB3pthH6Oc.>Xa^[@hd\KTA25EFJ`W7`#1YWU4g5k-r6YTIn-kJB$I(*UGN%U^iZ3BY(g`AG"NoC>Y@Oi/Mn5.@.bf7d`(3XLMIV7u*mku.-T<=%RHph=_QK?:aNdT$9X3HO!>Ke1\md\9ic7=sjfR%r@<geJse,(dEH`+b!#MY_G"Ds.uK]4qJc]Ru0IEQfccp'sqOM>R\,R79Jh5KHgce*QS?BOi;5sD-MaW_3jp2:I%GSY^?l#IO$q``LT<QcX=&Z+8\gDlcj0B?lH/^Ce[E/NV2#4Pn[!?+q_UK.kqn:%UEKJ<&a`]6>ELHT1MjCnX(H?D"3X:(bR[-";ml_u34I''&i_IaXm]LkpkXjd:L6;&VIR?S<od>BkiWW\UN5OG*YB9\_@LQMq'XX[=GP-e@sCe:(Fd:u4llsNBGA\$3Xn"3f);Mcsjb/@$O"ePT&#E90h,rJXs6p6hI3m,X/*&gajcppP(#*detiHbmMf?u&Nj$QH+@V7IBnF[V_^P,FVq-Y.Q;EI8P6Cu3!W9L\6`ALAs;lN$rRKiJQbhmYeb-d\>d5bK/Sm'\WJ#L]3iN0$J!N%/(3X4s9PWmAHqZd78(8_~>
+endstream
+endobj
+13 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 10 0 R
+>>
+endobj
+14 0 obj
+<<
+/Contents 15 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+15 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2885
+>>
+stream
+Gatm=bAu?,(>\j<DJ:nKMLl.rTLa>aEZ?CJfT%Pg`Z&i"5a+S=TTSYsBNEBucaf#_,t_V`9<q\c^[C^KF.5@QnE[^dUQ"EmK&0c/j9N%oP!AI`[.lo$/7/;JWZISu^tbF1n%E]$c_irir7!6'i7GSr^,HD=dt!%<2kE\j=ImjtQ`olAB2r[k%K2>?$pIB4F%[`"cSmU/F^hh%WQI==2Gq#19oD5MnIm"WZhqt9mr&),X<`dPe%\/#G5bVrc.R4$L#[+Rbq\S\JKIYMj9<BQ,_RZ-ZQPd^+/grh1HsdBAO(^c[Klpm`F'k5*PFP4Md3&^,>!tG9p%i#.Lft9$khsKZX9HKoE^;nPsf-QrQ8tPU3HSsI2+e=neIR'PoKQXOS;<to12bgBUM8)<0=m@,I/MIb]0^1]7Dk<9?NNrqnsa\`nt)e/UQO4n8*-4loD8ect#>[k\Nqj52Jq9re+#A\![niH?7*$HB'p+o+--<aa=f\@lg(`BC2F$n"QA4k==l#I<jT;hC0[^VoiR'[78G36(:u9+fA/H2I=#_Ngg,(CdN(&\_(DA_p_sb"WpUHf"sNiAAJQ9*/)/Ua*_02.C#+1)&k>n/o?biT0*VK"SFd''6NF4j5qKa_*KH8=._*/d+=3A:KO0;V,JAB<iOGXSJ3?a(C?h#OrPAtV[p'Y0<I&Y#AAUg<#=78aI,Gl<9b4(BM1d.ee"[>MUTTq&s9"p\Q!Nr[$K)[EmLLrM'Znn[@""KQ>(-B5qFgSa1Mn]a?%k/GgG&c'NQ.=F'Br,:\mOT)MjC"Z2(l`\`_d7K^:A:Bf58!mg]b42WXd,4"f)<N_36\@YiF"8CK/UN&m4HN<C:Sepo4I$&Xr.&s/@4+f.feSVf87PFW:c-Be9ePFW_,Z"mL<gXCj;VmT3Va-J6O2N4;YgNM$jD8u](Ygc:UBHt,aFA.u!GS%<l'[U-dN,Fndj0^-Wo2obe:r?dY\CqBZlkHEM6Nh;FQ?Un87Znp^O_Ft+n+-Q?$(oZnGV[P&:C+?3"_\"4&B8N#FCJ,I=F<:TTuT[Wnq10n2T^V`oB:OfS[!38O)$b=(hS%A&'UqO\QWJk:%CBk=OD[r<TXn'C*d;$c,SU<.^:5\=Y$4.]M-k5f;6U&I+G;fK'3#'LIgNmiQ1`@XTBXg<$[QE4I#&1HF#J0At3dN0()/kMVD)O!iSV7s)d=]B%-PaHu]<_clCRA]Yjg6XV20!"/qSeOj)-$B2fUk0%2<$,?:Tq(Bd_eK/t0]etaPI\L7+>q"Ns8K_>1C%+1pu-WsNoq(\]b2`0e1N-8NgH4tX(T%Jk@9n+SX2Id*C*t#TQq9I'o)jp%%9Y5lGcG6q-nE7.#HT^(I1]i,OMP#Vbr:GimS2Ce[WD5lP0663A8OYW[+[)_:#I(R,/14E%<epa`X:Tr>Wb)/O!Er8!7":KM=Mmr>8rDCI1^0Tq#e,u?8BdLV#'INc_II;P::F!9i'8')#QkSsUu.0Xl+^+PGApiHK9?F?WCTI,J5i;M([XD#qi\\HDo<9Ve3!Zk_^;_C$\r0ZaZ_)EiWG5r%=F3T*(lFYc=J@*jq+!!j[0*\<q%d5/ZKZZUj<%d;Zg@2ZiD:?p3;>s?lL,Tj.=XEI*$?[@t2F?aoida;94+i8dhIIiqO:O[4So-ik`63D=XQ`@MMPR6g+]m4Tb3je0PbH7c4hs"OWL&?:f%\lr.4mKjgH$atjd-dlDY%8RL&:iH[II$g/"k`uZ/lY+5,q;u0pFBllg*"0hAP]7lU)h&n.\&'^FuR;S=/j=U+pe7GgNnBN5djCBT:J=%p6J0i5,n=P&W_THKpG^H&TeXXfKf.M!Do:#iX+1)F[=,T#7\^j<;SJeZ4fU>;bJ7]2>Qug,El=W(YVf=]]BtT@$JRc<UMX<;Ud?.^Pms\Il52VH35&k%^9j>b/-6"ZHXjlpSVSS8*#0j.f:nC7@RlXDCW2m?2RQHm[m_r5jSb0?UbPJZdBqPI#AV`a8dP@th#'S7e*l>WOWE[R>##UXc+3#k*:7_UYKtQ_4KA&EB6-('8g@J'WH85>(R_'4Kbf]C_mpsX>gmBY#7+:9<bDp%9XIY<ZWjK-9]>h$rNJug-9b+-Zj0=(ZVI0(U#7&ZuT'C347&m)>[h[?6pgokFq.tQU[!C*^72&5kUHenS\"-D;+q?co52bJ]n8XP?9!1h)f,1c'/j?@`S/nQ,620+6R#@C%IKQQs79-+_aB*C8Uc(,WlUm,/>],;S\d=/rF3=Yj(/03O27Wbb+V#NS*CL>cf.?Fi-f8r*4XqtL@>uV%\n>D:URYCSk2YP,P0L.0Cq-?3(t[LL@ndJ#46:g&HjGf:4$[g+$/i,:\t^@AgC9K)Ot$;/OP:$C'puW3NQN=;o7%g]PK0ACm?%3bPZjJu[AjbuF]87C$oX)SYKjZc>.^$$6#)2+4S"mo<<HCsiZ<N2pDbOGVA-ER73]73G<FS&WCL#_DE=uXf<gu`Cto2O;l!K@XAT;AK0T56a:LNnpEco<2H1HQ/Zt3;El5`<R*$Ge.3N/l(oqaiFqK<$@uRV;mbs(4O&T+q6YX9&@BA$k.NKn;&0cSI\>6O"=Sl_UCp\@)/PGKZZbXZmp$8U[r'7Yl6Ge_HGDG7D5Q-/Bqic*tl?XO/`/8IR$1/=.FpN@!deefA'[sadggrq5P4j53?l4O><?k-e#YJTR&(8s,(p@@oI'qSUbm]<\I9GQ5K6ggI;75kMP1LY<aYi&_ON7QOgX!g<r)[6RE69#u<R+Z!0s_+]EE#SG>42oLPA.9Q;ej#r3Tn=d-9A2r\!FesVYdUtmU$13NcF:>Aq.cjlJU[43$YQp\ikA!@a0+@hZc$30AjGBcdg&pmlt,`s30;.R9K4Lorq2K9%U,__k<c+rs)BBLA(~>
+endstream
+endobj
+16 0 obj
+<<
+/Contents 17 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+17 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2750
+>>
+stream
+Gatm=gN)%.&q/)-oNRP/Mr@C^H1Ibo/T8mE4gAbr`@inK8K<qI"sg=LC-R/C"5lVR,cb/ha-%j4khG@Nh/GVCIKK,0j@$a7kju96Jrg`u$=YZc`UEGAn_rpIDIpru1N2WopI9Tc)[CK_Y1NS:i-$1GSf^G^OM[t5`T%e2k;;u1TASjjWc]a`qCgZjGV=,@<9+:oIZR.'dqV\9<*_%DQ)^SV7#SfnnI#^gfR<&0%_'.gCIrO7p-2tOHiM#u1Ds!%;)F/=3L7?$$qB7pH!r[h7kc6XKVNd8A;X.rQLO]S8AU+1&VfY0_*XC4oOUc*S[*&tA\'LKBgEr,\iS4!ZnCnD*P+X>Q\^7/#0c<%-()$joPgj/\?eeKRAGU"Y='%qdFc3/M1V@h7MO/mXQ%,O_"X!m^L1">C$lkZ]mCs\h;ca(r^YfrT(sPd`m\oeBci6/%unG))c+@M[p7c+i_Sdt)^eb.)X.(<P@4js`_0fD1UWfg<B1=Sk`$Ko9Ke";NXB7u!MIKLh8A7Be(GiDM[2WDDB]%+.]%TV9*e^8PuFR2-%2Yr&s_OZ\fa&(c9.:On!/<&<)RYBXA#(S2\?%\=TNrST+DPR$1MSKh]ME)n?rFokp735FA>A0eOqmET?pW'j\G%dQ$&7?Pt2T^qW$<^M="=oFu$\>d:<g46I5Bm0CWnYg.86e>%Ek.fL7<D6EW1(nZMB]HWC)OWTTGMoN>(cF:ROZWR;U0Vah9K/1SWQ`+hY5XnH4Xi">j0FC%E"(;);BJNj\)+hs&p%\<V`qhMoKcUOZI/p9)H`pbYBNpc<aR,Q$bO[4Ah3E8.0/!4G"?k_SK`2n*:Dmg3OjKAjCFF6[CBQVNShlVVW;h_$36W4TDV,i9L!emDL7.Mo%%6`6Y!?&-86WSHa@'crdCKX[aX_V1=`L<%RqGXAp1Mb@)ld7:aqlMUZL)>WX1qX"<k\!p`A>SR_;V:LgPF$eST"H!Y'8)5-S%+8E(Ic:*A8oZmql*iS+Lh1$b6mCPP#qB`7Pn7#3$A%*,,)OR+epVhMOh@JrRa_)]PO4ho'`"lE<U$MpjJh2iFG!g9$0SfD!3*J\cVa1"!:rV=sT8JC/le],f%FJ10kg>0ca(o=QX@Ah+?EcM_C^@;mrSrVgt4joVXj;.[Q*!R?`pn.U+\!qBB.^>p>QWJ\?T)d!qNZhRE:_B9=YldFQbn;%@j3MYLKdms,th[4/d&aC[##<IrX'i_hh.b)NDW\0&Q;LY0KX/m7pJ(S\&j8uEubYDXmTpq^6%-J<V<qNM0``:%&G)u:ZV^_6%gc7eX4.DF$i_(>E\"omLr^NX2VQ89J"kLa.YA\/Ws/k+S/g;;\RY*t(.5Z#sD2@_<<Gd[A&Bn9K*1jQXFB\*2Gf?0/KpP]i">5<,4?[lrL;:l2rF<\gr-I:f.1IXEoob9EJB'1Ei`6:!6lYYR;L'"I[O<cp8F!ImSO9[?>fFh)!:pZNV)QHY1Q,(nSjDnd''0[=pEP-8>j-*PDb'`?mkf291g\G@DGb!NYb)p^rHS`e>$8i;+_"Bc13<L10#IbQh+#`OU^,GBnGs2^G8n57PdH<j`*^:MSOG%=$PNrqS(2SQr:6o"Hm0t4C;-PrkcULpr(-J[?/+;Bihd*q<do)rfc_&i_^D\JmAOosnFHoJTV:de+M2B]@@<LohFfC8i<7R]'@-B\s=E-FoqE8dMcqRXoE_V5/)/BMA[mF0f.jTn62^Ca%@dBtu07/L6>V8k]4SjZ^$S<r"/5lTp9DO_t'&AaP4,cY$CV13jEs.X,AK^WoKW=\cmF#`j">p[/gIASKmH+nJ4SnM)d\QtP_<$lbh/Vd%>2q--&l$9QI1q=$I1pr!",`i#A=L0#Jo?a?=U@Lb2C\-/c"YoW2JZ)Wc+()##)YK]cGo91YbL;pDBrQ!a3GBr9LD8Z=\n<1krN=@XjDQ-52f+Xdu@O%/QOP+NM)hjr,gtp=gqR!iZ[r&kYFgU46VK9$s5FDN+O9s4LrJTf,f0A6e.PWmWAlfW=85\V(ENgRSf$CH_h-5W5hVV$`&d'Y>@&<6fi0>Zr-!p-m"H/#u<;c_[!@^5'TeXpJ@:(&-uqLqNDT"Lk;;,9q[X[ka:MZ$u9Vndo+(MAm@7'=dYTJ#iNs<=IQ!\(AS^G\@]L9R(\MXXFVkJa8YC:oI%1YZ+5,A`m_cd=!g-<e0rf')QYt:>sj>)CjN4McT=$Ij]H2]fX,W8IdL;j?duDNb=e=1[bt4h-oc:4jt,n_L',HM@Q[egWmH[R>Sg]o,l=L$R8#/J3Pg.ab!N/QKI]QqW?k%@i>3@uCSLKZ#HmUX-p$Zcb?@tl14&?0LI?!Ud6(K!$K.KIUTr)bJ5D;bDJZjEAs4Pr*H0jg3$'^!YM<7%*;C=2Kl<I_DW#t1%5CC9QkZX:'.&foZGP]9ms>iPP>ZOSg]C#m9os.@Y&SY"r;V!mT$pu-Uip(Go3CMXgDU37r+6a"M,0D;_=,SV4J;>P]BcE^Go$=;<&VdI*R>h"Z[q]3es4m]$b-0KXB):?0]qf;Fm\5I+AQ=2NEBLH*bruQ32"b@.u::?ll&di#Fa>NlQC%&]4(-0=hO&r%LsYBcQ/rIDnreqfa2F(KUU@/eo9hJ#9)*]L)Kl_%%.3pVRKe[BoeunPIYU98S;5YiH>:YT/mU(%%bCZ\uIPB4X:n=`=2(tidMAt=f-=*gna7q8)NFSb*C"-f0VFQDOW]*2<2[gj0:8^Jn;]7VDt5-B4uW)H3@^Rn3?,L8F-~>
+endstream
+endobj
+18 0 obj
+<<
+/Contents 19 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2956
+>>
+stream
+Gatm<>AkHB%Y!lM+O8.W#L:8/YoUGPl#j]'T&qk9'T:4"a>:-(PHe^\db$F]5CPh3Xpu'l#hl*E71r1Sr'$;(dh"aXq\sI1hC[s^P>?WmM\Z&M(X_4MI9aG\nYTX'ie=?jY.s^#6[q/jl/?E_jo^&aIH5am+<1V#>^9a7Nc9;;B-4n'U\@no(hr2`FD^M^[Sg<JqY5Fgj0DMT5bG>[-c2lWRr_d27>p&+nWEGoDgEu27][nqHJAJ<%GLcEg7$.Yar?&0#WKf0k6M!"4=)Wd-IE*##q*P;RQe7(O=%'fnl%gQLj]j<m#&-'0_b3J7c39%aZTr)f5i^l*J?=t=WH,d\4+g?'c)Lg73VJU'fK^P#Cf5CdRL;`AHe@QP^/i8<[JNY6>[0j_V;.?AGjfb&$0Q@2];iQZVL,&WDCnu`9L>n(I#R"[/(e0q5;n%$$pqB^Y\!F6iKU41n"mV]Ss&6_5'4.qMuXX&j.3.[Y2O7aW3Tlk"'=`ka%q6;\]uOStV'/cpFXMj;8[S=3bU#*X*2ED3F5-F4nME74aQo/nf>u_F<e4@/6"[(Cd:iX&ZiO1VtG/+b_qM%TeO&4af82HMk!Ej?HK5gL;C!DM:\S)01#6Pd)Wr,\798D+:,qIBg;momV8(V8L\0@tNnnA"3bGFF#(/j5Q/)6PfC7RFXN>,T4*aB9r*4gIY$!>$86Jn\HHabn^]lk%X5>#b[.)/A&Y.WOeEUO8J2CQ,OYV%^h(APgVhS$8@GIR=G@(8.FBTV"3sAgnXW8gZqmV^/8L;oU=@-8q`3N]Q\n>)=:t.<X2M`Oh&sm.6VpRJi>gVY@iHRAnt=lJpip-!i^dm_6hcoIu8lmk7<>S&<a;$>&P1rm'@m]8Q;V8l[ntem5(5J:N?\AR"5X9EXoNM)NV$Yc#6,u8V+s&)@Fp@_QJ5j/p9[]MJOoHPspU`1K1I./nfNBN*<*K.9j;kX,J%FZF%Pbq\Q(lOs+%5`#f[%<MdF]ftJ,&L\j6OI3N.\PJ0!gY^_,57]\(0YWiJ*?Q>iLg=ClD$877YCG#>hh2]]ARVSqkbk7,.'KN(TE/]m:_G[g_:,H^f09goYD<`otf\!hmIt`-L91/iuJ=hc5\WXh8@&UB<#+#?$!*iFA^i?'@RR<o$9T,ahdaH9:mZ1-7bELf_+B*!TbVuB?<NNLS2upY1e_r#am/S8*V9kGLlTl4gJmT.f$Dhr;@'pb(Mk+SA/E_4ZL`JlgiZB"%AX\.<48Jt[A?h=iKr;jp/NN('=6Aj$33;\=/_Qr7R1<!%6J^%2TZhZP_'OWNj\SHRin[[>G>h^TBNmfiAk^$8E#:\Ih_<PnYO&-ke"\R=]s+g<Xub.jJAVI1Z>\R$$anjD]&6ZNeD?ca?tlNlgR,*Da=+h.Ld5RAa("QLr;Z*)If8#6/CD3!gpUL`_]MggF\BXO_XQdT@;fXob7fK;oBS'gA%NErWt2g@dj'.ec@GH4_RNeUNu#TE_&l0Im!6/?ckuQ@;sjB/*<*PC4IFMXa]7F'O$,WH7)?7.rpbBL\n\OYDF:1r?E:ZQf`EIU.9-9L&Mr+8%#X\-^?b),?iKF*$L,K#LQ#u9"0'>I_c!?[Cj0NDbX#a><H5q%9P9AX6q>@i*,bDYPPL;?A8=lLA\L1WMU.V,Ql$6k,aMT)\tR(_TQ=mpL[JH7KO<4]RG/JgB$fi@]!sJ4LH[Qc\1bZ;9Td30KP'c`<l/6CO$5@)aM0g7YKMgUBEcbV?2.9/I-27(j4r'Bj"9s0GNZ*N\OIE%MmaO&.jsfiF8'rFWIWl(akm0qnV.4#:jAOO=+O:`U#aN^'tTRDlOh^_Dc"26B70Lr"",5H@d=p=<jh*rng=LnKkp-ZHR%"0AW7huQ9/oBD.$;1_^H(E=siV6RaGD=e,hc/bXRFqF.cUBlkGtT67ObLE[qf'DD*rA.d5gK8.fdMDh`5[p!#+<eI3[_RkE<QXjE(_^U[1KoQBl4[Ur#/EV\3Z](W!?=igV,:%KBOL6GsLhJbsWTS+/(@t(^^Z$bDm?lD-8A02KM@n9pF(ZVg+Si3U=C3kb'2kF^:@d7pi[Kn?.)B]0ZSp,\t8sDX$*Cu)?&j+skpn#HK<L!fGU)mT2XRXopj0B>28FEm%pE8Jg,[r]$<j"AXK8d$"($jqtLJru0"OZG/eT<p^cl]Eb\oQN`SBj9M]?1J>B3P"-\ZVuO8ZeKaaj?9TMqAMY4/%#m))`2BNhWuTk\<RiaCg5P-E%?2YR-n>JR1lKaO-'m(F\g7boC$TjJZq8&1I3DCfRK'_.[f3>g:t5R^4oFBSGughdkLST\jc!o92<h:T@])i?UC8lIN^7Xgh,/+8V>'.["cm9N:"F0NN-'1LDsj@FGH^F5Tptr1.W`<!lpn"%_3YR!]j>%I2N@5Nl.*X64*F8E-)0*?`=C*HQ0l5eZ+7a]=.^3S7U1fr=*Q_g'OKh[tMi$;fEN:!l=5:4?W"O(NJs^Ym-MM$3>`UA%>mKq*g1-_@lV-B5m68On(Oeluj0O!>Z<1h=JLN#jI@3HZ@;SC.45TWn]d?Ydr9E!SuSV\7&28Kh-#5uj24Go`]ll@AYH"Y>FGSetdQSM5AUq4dQ`CS1@82,<1BP\0X%0)o\WN%Tnr+(a+5T3K3%6>(c?lt'!VO%,$1`qZ,?8H6<.NO?<b?!csnHOl+#nCH:\dM2k0!G8mpo=hj.=[Pe(#$YX-B;sFBZ;54/B$H$5e\--UMoK-VMZH;,'ZC^K@-TB'HU+NU:;JnrffbO1Kag;L9"$]`CLrs.\O(Q@&PY&[^E@oQoN^@$JP-)AqttUlT[-NZU2#.[kB'X5/!Y^In:!J>?MHYolWosG9B4tPep3\@n2H\#?*Z0QHLA=2?Cn7NjbYg6Tp?_;>4p[lLh2uTGe@f2)s_`i"[[7lJF2sV!Y1rr6$YBS4_&9:ZmDt#S,l/a`LF#\2UQ.d+8l*opP1B!2ua-E.l\I~>
+endstream
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000141 00000 n 
+0000000190 00000 n 
+0000000456 00000 n 
+0000009750 00000 n 
+0000009857 00000 n 
+0000009964 00000 n 
+0000010076 00000 n 
+0000010188 00000 n 
+0000010308 00000 n 
+0000010510 00000 n 
+0000011217 00000 n 
+0000011270 00000 n 
+0000011472 00000 n 
+0000014450 00000 n 
+0000014652 00000 n 
+0000017495 00000 n 
+0000017697 00000 n 
+trailer
+<<
+/Size 20
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+20746
+%%EOF
