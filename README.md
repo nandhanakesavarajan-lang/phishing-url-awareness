@@ -49,10 +49,8 @@ Never enter passwords from unexpected links.
 Full table: `tests/test_samples.md`. Automated tests: `python tests/test_phishing_checker.py`.
 
 ## Screenshots
-![Sample run](screenshots/<img width="960" height="540" alt="Screenshot 2026-10-29 213503" src="https://github.com/user-attachments/assets/8038f309-eab8-4428-84a6-8896ae270785" />
-)
-![Test results](screenshots/<img width="960" height="540" alt="Screenshot 2026-11-01 082835" src="https://github.com/user-attachments/assets/831dcea6-72ba-4857-bbc3-c3dc26623d30" />
-)
+![Sample run](screenshots/![alt text](<Screenshot 2026-10-29 205659.png>) ![alt text](<Screenshot 2026-10-29 205724.png>) ![alt text](<Screenshot 2026-10-29 205740.png>) ![alt text](<Screenshot 2026-10-29 205801.png>) ![alt text](<Screenshot 2026-10-29 213503.png>))
+![Test results](screenshots/c:\Users\KesavanLaptop\OneDrive\Desktop\phising-url-awareness\screenshots\test_results.jpeg\Screenshot 2026-11-01 082835.png c:\Users\KesavanLaptop\OneDrive\Desktop\phising-url-awareness\screenshots\test_results.jpeg\Screenshot 2026-11-01 082854.png c:\Users\KesavanLaptop\OneDrive\Desktop\phising-url-awareness\screenshots\test_results.jpeg\Screenshot 2026-11-01 082910.png c:\Users\KesavanLaptop\OneDrive\Desktop\phising-url-awareness\screenshots\test_results.jpeg\Screenshot 2026-11-01 082929.png c:\Users\KesavanLaptop\OneDrive\Desktop\phising-url-awareness\screenshots\test_results.jpeg\Screenshot 2026-11-01 083036.png)
 
 ## Improvements
 1. Loop with quit - the program repeats until q, so I can test many URLs without restarting. Tested by entering several URLs, then q.
