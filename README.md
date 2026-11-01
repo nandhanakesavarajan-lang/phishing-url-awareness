@@ -49,8 +49,10 @@ Never enter passwords from unexpected links.
 Full table: `tests/test_samples.md`. Automated tests: `python tests/test_phishing_checker.py`.
 
 ## Screenshots
-![Sample run](screenshots/sample_run.png)
-![Test results](screenshots/test_results.png)
+![Sample run](screenshots/<img width="960" height="540" alt="Screenshot 2026-10-29 213503" src="https://github.com/user-attachments/assets/8038f309-eab8-4428-84a6-8896ae270785" />
+)
+![Test results](screenshots/<img width="960" height="540" alt="Screenshot 2026-11-01 082835" src="https://github.com/user-attachments/assets/831dcea6-72ba-4857-bbc3-c3dc26623d30" />
+)
 
 ## Improvements
 1. Loop with quit - the program repeats until q, so I can test many URLs without restarting. Tested by entering several URLs, then q.
